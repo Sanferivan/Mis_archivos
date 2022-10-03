@@ -2,3 +2,5 @@ hola mundo
 
 ivan santana
 alejandro
+
+Es un proyecto de clase
